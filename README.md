@@ -1,34 +1,36 @@
-# Hi there! 👋 I'm Hasintha Nirmal
+# Hi there! 👋 I'm **Hasintha Nirmal**  
 
-> 🚀 Developer | Open Source Enthusiast | Automation Specialist
-
-## 🎯 Currently Exploring
-- **🔗 Automation Projects**: Streamlining workflows with Python, Rclone, and APIs.
-- **📚 Learning Cloud Services**: Enhancing skills in Google Cloud, CI/CD, and DevOps tools.
-- **🤝 Open Source Contributions**: Collaborating and contributing to innovative projects.
+> 🚀 Developer | Open Source Enthusiast | Automation Specialist  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎯 **Currently Exploring**
+- **🔗 Automation Projects**: Streamlining workflows with Python, Rclone, and APIs.  
+- **📚 Learning Cloud Services**: Enhancing skills in Google Cloud, CI/CD, and DevOps tools.  
+- **🤝 Open Source Contributions**: Collaborating and contributing to innovative projects.  
 
-### 🌐 Languages
+---
+
+## 🛠️ **Tech Stack & Tools**
+
+### 🌐 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### ⚙️ Backend & Automation
+### ⚙️ **Backend & Automation**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
 ![Rclone](https://img.shields.io/badge/-Rclone-36D7B7?style=flat&logo=rclone&logoColor=white)
 
-### ☁️ Cloud & CI/CD
+### ☁️ **Cloud & CI/CD**
 ![Google Drive API](https://img.shields.io/badge/-Google%20Drive%20API-4285F4?style=flat&logo=google-drive&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-## 📊 GitHub Overview
+## 📊 **GitHub Overview**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HASINTHA-NIRMAL&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -39,7 +41,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 **Featured Projects**
 
 <div align="center">
   <a href="https://github.com/Hasintha-Nirmal/HNDLBOT">
@@ -52,7 +54,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 **Connect With Me**
 
 <div align="center">
   <a href="https://github.com/HASINTHA-NIRMAL"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
@@ -62,7 +64,7 @@
 
 ---
 
-## 💖 Support My Work
+## 💖 **Support My Work**
 <div align="center">
   <a href="https://www.buymeacoffee.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black"/></a>
 </div>

@@ -42,7 +42,7 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Hasintha-Nirmal/HN-DL">
+  <a href="https://github.com/Hasintha-Nirmal/HNDLBOT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HASINTHA-NIRMAL&repo=HN-DL&theme=radical" />
   </a>
   <a href="https://github.com/Hasintha-Nirmal/Hasintha-Nirmal.github.io">

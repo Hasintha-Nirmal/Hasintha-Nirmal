@@ -1,57 +1,49 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Hasintha Nirmal
 
-> 🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer
+> 🚀 Developer | Open Source Enthusiast | Tech Explorer
 
 ## 🎯 Currently Working On
-- Project Alpha - A revolutionary way to approach web development
-- Contributing to open-source projects
-- Learning new technologies everyday
+- **HN-DL Bot**: A robust Telegram bot for managing torrents, cloud storage, and downloads.  
+- **GitHub Pages**: Building and maintaining [my portfolio site](https://hasintha-nirmal.github.io).
+- Enhancing my skills in Python and automation tools.
 
 ## 🛠️ Tech Stack & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
+### Frameworks & Tools
+![Pyrogram](https://img.shields.io/badge/-Pyrogram-2EAFBB?style=flat&logo=telegram&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+### Cloud & CI/CD
+![Google Drive API](https://img.shields.io/badge/-Google%20Drive%20API-4285F4?style=flat&logo=google-drive&logoColor=white)
+![Rclone](https://img.shields.io/badge/-Rclone-36D7B7?style=flat&logo=rclone&logoColor=white)
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HASINTHA-NIRMAL&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HASINTHA-NIRMAL&theme=radical" alt="GitHub Streak" />
 </div>
-
-## 🎵 Currently Vibing To
-[![Spotify](https://novatorem-spotify-widget.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=radical" />
+  <a href="https://github.com/Hasintha-Nirmal/HN-DL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HASINTHA-NIRMAL&repo=HN-DL&theme=radical" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=radical" />
+  <a href="https://github.com/Hasintha-Nirmal/Hasintha-Nirmal.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HASINTHA-NIRMAL&repo=Hasintha-Nirmal.github.io&theme=radical" />
   </a>
 </div>
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://dev.to/YOUR_PROFILE"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
-  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/Hasintha-Nirmal"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
 ## 💝 Support My Work
@@ -61,5 +53,5 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HASINTHA-NIRMAL&color=blueviolet&style=flat" alt="Profile views" />
 </div>

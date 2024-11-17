@@ -52,7 +52,7 @@
 
 ---
 
-## 🌟 **Featured Projects**
+/**## 🌟 **Featured Projects**
 
 <div align="center">
   <a href="https://github.com/Hasintha-Nirmal/HNDLBOT">
@@ -61,7 +61,7 @@
   <a href="https://github.com/Hasintha-Nirmal/Hasintha-Nirmal.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HASINTHA-NIRMAL&repo=Hasintha-Nirmal.github.io&theme=dark" />
   </a>
-</div>
+</div>**/
 
 ---
 

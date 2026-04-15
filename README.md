@@ -45,44 +45,6 @@ I'm a passionate developer currently focused on building practical applications 
 
 ---
 
-## 📌 Featured Projects
-
-### 🎵 [HN-Downloader](https://github.com/Hasintha-Nirmal/HN-Downloader)
-A modern, user-friendly desktop application for downloading videos and audio from YouTube using yt-dlp with a clean dark-themed interface.
-- ⭐ **2 Stars**
-- 🐍 Python-based with modern GUI
-- 🎨 Dark-themed interface
-- 📥 Supports multiple formats and quality options
-
-### 🎶 [YouTube Music Downloader](https://github.com/Hasintha-Nirmal/youtube-music-downloader)
-A comprehensive desktop application that allows you to search, download, and play music from YouTube.
-- ⭐ **2 Stars**
-- 🔍 Built-in search functionality
-- 🎵 Music playback capabilities
-- 💾 Organized download management
-
-### 📱 [Telegram Session Generator](https://github.com/Hasintha-Nirmal/Telegram-session-generator)
-Python script to generate Telegram string sessions using Pyrogram, with automatic saving to Telegram saved messages.
-- ⭐ **1 Star**
-- 🔐 Secure session generation
-- 🤖 Automated saving to Telegram
-- 🛠️ Easy setup and usage
-
-### 🎬 [Youtube Downloader Pro](https://github.com/Hasintha-Nirmal/Youtube-Downloader-Pro)
-A robust, interactive command-line interface tool for downloading YouTube videos and audio, featuring powerful integration with yt-dlp and ffmpeg.
-- 🖥️ Interactive CLI interface
-- 🎯 Multiple quality options
-- 🔄 Format conversion support
-
-### 🌐 [Professional Portfolio](https://github.com/Hasintha-Nirmal/Hasintha-Nirmal.github.io)
-My professional and dynamic GitHub profile page featuring animations and interactive elements.
-- ⭐ **1 Star**
-- 🎨 Modern design with animations
-- 📱 Responsive layout
-- ✨ Interactive UI elements
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
